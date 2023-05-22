@@ -1,0 +1,28 @@
+body {
+    width: 70%;
+    margin: auto;
+    background-color: rgb(181, 195, 245);
+    font-size: 15px;
+    color:black;
+}
+h1{
+    background-color: rgb(6, 176, 235);
+    border-style: inset;
+}
+h2 {
+    background-color: rgb(76, 176, 235);
+    border-style: inset;
+}
+
+a:hover {
+    background-color: burlywood;
+}
+ul{
+    padding-left: 0%; 
+    
+}
+li{
+    padding-left: 0%;
+    list-style: inside;
+    
+}
