@@ -6,16 +6,22 @@ body {
     color:black;
 }
 h1{
-    background-color: rgb(6, 176, 235);
+    background-color: rgb(255, 8, 0);
     border-style: inset;
 }
 h2 {
-    background-color: rgb(76, 176, 235);
+    background-color: rgb(235, 76, 76);
     border-style: inset;
 }
-
+.w3-container{
+    color: blue;
+    background-color: rgb(255, 0, 0);
+}
+.w3-large{
+    color: aqua;
+}
 a:hover {
-    background-color: burlywood;
+    background-color: rgb(0, 0, 0);
 }
 ul{
     padding-left: 0%; 

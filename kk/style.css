@@ -356,6 +356,7 @@ header {
   width: 18rem;
   height: 25rem;
   position: relative;
+
   
 }
 
@@ -387,13 +388,14 @@ header {
   padding: 2rem;
   text-shadow: 0.3rem 0.2rem 0.3rem rgba(0, 0, 0, 0.6);
   transition: all 0.3s;
+  
 }
 
 .card-info h2 {
   font-family: var(--font-primary);
   font-size: 2rem;
   font-weight: 500;
-  color: #eeeeee;
+  color: #921616;
 }
 
 .card-info h3 {
@@ -426,6 +428,8 @@ header {
 .card-info button {
   width: 8rem;
   height: 2.5rem;
+  color: white;
+  background-color: #6a3093;
   
 }
 
